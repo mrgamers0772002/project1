@@ -1,0 +1,24 @@
+body{
+    background-image: url(body.JPG);
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size:cover;
+    
+}
+p{font-size: 24px;
+    margin-top: 20px;
+color: blue;}
+.ho{ text-align: center;
+    
+    width: 70%;
+    height: 100px;
+    background: rgba(70,0,0,.6);
+    padding: 0;
+    margin: 30px;
+    
+}
+.ho img{
+    width: 60%;
+    height: 500px;
+    padding:50px;
+}
